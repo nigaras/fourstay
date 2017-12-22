@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1687" started-at="2017-08-27T23:14:54Z" finished-at="2017-08-27T23:14:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1687" started-at="2017-08-27T23:14:54Z" finished-at="2017-08-27T23:14:55Z">
+      <class name="sql_to_excel.SQLtoExcel">
+        <test-method status="PASS" signature="connectToDb()[pri:0, instance:sql_to_excel.SQLtoExcel@7cd62f43]" name="connectToDb" is-config="true" duration-ms="1005" started-at="2017-08-27T19:14:54Z" finished-at="2017-08-27T19:14:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- connectToDb -->
+        <test-method status="PASS" signature="loadDataToExcel()[pri:0, instance:sql_to_excel.SQLtoExcel@7cd62f43]" name="loadDataToExcel" duration-ms="672" started-at="2017-08-27T19:14:55Z" finished-at="2017-08-27T19:14:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadDataToExcel -->
+      </class> <!-- sql_to_excel.SQLtoExcel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
